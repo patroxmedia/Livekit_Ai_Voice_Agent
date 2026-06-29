@@ -122,7 +122,7 @@ python app.py dev
 ## Running in Frontend Development
 
 ```bash
-npm run start
+npm run dev
 ```
 
 ## Example Workflow
